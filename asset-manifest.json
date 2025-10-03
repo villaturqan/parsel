@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/parsel/static/css/main.d35c66a4.css",
+    "main.js": "/parsel/static/js/main.593b35d0.js",
+    "static/media/resim.webp": "/parsel/static/media/resim.9b44c0ba1b2b5e5d8a31.webp",
+    "index.html": "/parsel/index.html",
+    "main.d35c66a4.css.map": "/parsel/static/css/main.d35c66a4.css.map",
+    "main.593b35d0.js.map": "/parsel/static/js/main.593b35d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d35c66a4.css",
+    "static/js/main.593b35d0.js"
+  ]
+}
